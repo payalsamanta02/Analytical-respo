@@ -1,2 +1,2 @@
-# Analytical-respo
+# Analytical-repo
 analytical portfolio
