@@ -10,22 +10,6 @@ The project focuses on customer churn prediction, exploring different machine le
 
 The dataset used in this project is the "WA_Fn-UseC_-Telco-Customer-Churn.csv" file, containing customer information, features, and the target variable indicating whether a customer churned.
 
-## Dependencies
-
-The code uses the following Python libraries and frameworks:
-- NumPy
-- Pandas
-- Seaborn
-- Matplotlib
-- Scikit-Learn
-- Statsmodels
-- XGBoost
-- Sweetviz
-
-Install dependencies using:
-```bash
-pip install numpy pandas seaborn matplotlib scikit-learn statsmodels xgboost sweetviz
-
 ## Modeling
 The project uses various machine learning models, including:
 
@@ -48,3 +32,6 @@ Possible future improvements and steps include:
 ## Feature importance analysis
 Further hyperparameter tuning
 Model deployment using Flask or FastAPI
+
+
+
