@@ -26,7 +26,7 @@ Install dependencies using:
 ```bash
 pip install numpy pandas seaborn matplotlib scikit-learn statsmodels xgboost sweetviz
 
-Modeling
+## Modeling
 The project uses various machine learning models, including:
 
 Random Forest
