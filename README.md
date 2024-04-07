@@ -35,3 +35,18 @@ Model deployment using Flask or FastAPI
 
 
 
+wildlife.indx_nr 	INT_TYPE
+wildlife.incident_date 	DATE_TYPE
+wildlife.incident_month 	SMALLINT_TYPE
+wildlife.incident_year 	SMALLINT_TYPE
+wildlife.time 	TIMESTAMP_TYPE
+wildlife.time_of_day 	STRING_TYPE
+wildlife.airport_id 	STRING_TYPE
+wildlife.airport 	STRING_TYPE
+wildlife.latitude 	FLOAT_TYPE
+wildlife.longitude 	FLOAT_TYPE
+wildlife.runway 	STRING_TYPE
+wildlife.state 	STRING_TYPE
+wildlife.faaregion 	STRING_TYPE
+wildlife.opid 	STRING_TYPE
+wildlife.aircraft
